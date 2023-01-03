@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     //google's API for location services.hampir semua function pada app ini menggunakan kelas dibawah
     FusedLocationProviderClient fusedLocationProviderClient;
-    //test123
+    //test123dwadwadw
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
